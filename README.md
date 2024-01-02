@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PYTHONDEVELOPER2007
 - 👀 I’m interested in  coding 
 - 🌱 I’m currently learning as a pcm student
-- 💞️ I’m looking for a  good job ...
-- 😎" Goal is fix in my life "
+
 - 
 
 <!---
